@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -cp target/classes:target/dependency/* sparkserver.AppKt
+web: java $JAVA_OPTS -cp target/classes/sparkserver/AppKt.class
